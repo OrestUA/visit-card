@@ -4,6 +4,7 @@
 
 *.jar
 *.class
+*.bat
 
 ### STS ###
 .apt_generated
